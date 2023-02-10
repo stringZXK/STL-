@@ -1,0 +1,8 @@
+﻿  speechManager.cpp
+C:\Users\Administrator\source\repos\基于STL的演讲比赛流程系统\基于STL的演讲比赛流程系统\speechManager.cpp(45,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\source\repos\基于STL的演讲比赛流程系统\基于STL的演讲比赛流程系统\speechManager.cpp(95,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\source\repos\基于STL的演讲比赛流程系统\基于STL的演讲比赛流程系统\speechManager.cpp(120,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\source\repos\基于STL的演讲比赛流程系统\基于STL的演讲比赛流程系统\speechManager.cpp(256,19): warning C4018: “<”: 有符号/无符号不匹配
+  演讲比赛流程管理.cpp
+  正在生成代码...
+  基于STL的演讲比赛流程系统.vcxproj -> C:\Users\Administrator\source\repos\基于STL的演讲比赛流程系统\Debug\基于STL的演讲比赛流程系统.exe
